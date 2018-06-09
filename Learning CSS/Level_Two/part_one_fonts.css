@@ -1,0 +1,21 @@
+h1{
+  font-family:"Arial";
+}
+
+p{
+  font-family: 'Jua', sans-serif;
+}
+
+/*Browser default is 16px, 1em = 16px, 2em = 32px */
+
+body{
+  font-size: 20px;
+}
+
+#two {
+  font-size: 1em; /*So this is 40px*/
+}
+
+h1{
+  text-align: center;
+}

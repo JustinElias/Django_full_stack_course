@@ -1,0 +1,22 @@
+body{
+  background-color: lightgray;
+  /*Can also do images:
+  background: url()
+  background-repeat: no-repeat;
+  This makes is to background doesn't repeat when
+  zoomed out or too small*/
+}
+
+div{
+  background-color: blue;
+  border: 5px solid black;
+}
+
+p{
+  color: orange;
+}
+
+span{
+  background-color: red;
+  color: black;
+}
